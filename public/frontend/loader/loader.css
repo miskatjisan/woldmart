@@ -1,0 +1,31 @@
+#loader_content{
+
+    margin: 0px;
+    padding: 0px;
+    display: none;
+
+}
+
+
+#loader_img{
+
+
+    width: 500px;
+    height: 500px;
+    background-color: #0000;
+
+
+}
+
+#loader_img img{
+
+    width: 200px;
+    height:auto;
+    position: absolute;
+    margin: auto;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0
+
+}
